@@ -1,6 +1,9 @@
 fun main() {
     // Write your code here
 
-    val stringArr = (1,2,3,5,6,7,9,4)
+    val stringArr = arrayOf("Peanut","Butter","Honey","Jelly","Nuts")
     println(stringArr.size)
+
+    val charArray = arrayOf('H','O','N','E','Y','Y')
+    println(charArray.size)
 }

@@ -2,6 +2,7 @@ fun main (){
     iAmANewFunction()
     println(timesTwo(11))
     println(timesThree(12))
+    println(timesFour(8))
 }
 
 fun iAmANewFunction() {
@@ -13,4 +14,8 @@ fun timesTwo(x: Int): Int {
     return output
 }
 
+
+
 fun timesThree(a: Int) = a*3
+
+fun timesFour(b : Int) = b*4
