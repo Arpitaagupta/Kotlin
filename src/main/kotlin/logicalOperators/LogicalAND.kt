@@ -1,4 +1,4 @@
-package LogicalOperators
+package logicalOperators
 
 fun main(){
 

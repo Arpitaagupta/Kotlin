@@ -1,4 +1,4 @@
-package Operators/*import java.util.*
+package variables_Operators/*import java.util.*
 
 fun main() {
     // Write your code here

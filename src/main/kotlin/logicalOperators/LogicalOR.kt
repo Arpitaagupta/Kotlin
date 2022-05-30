@@ -1,14 +1,11 @@
-package LogicalOperators
+package logicalOperators
 
-fun main() {
+fun main (){
 
-    val a = 3
-
-    if(!(a>=0 && a<=5)) {
+    val a = 11
+    if (a>=0 && a<=5)
         println("The value of integer is between 0-5")
-    }
-    else {
+    else
         println("The value of integer is not between 0-5")
-    }
 }
 

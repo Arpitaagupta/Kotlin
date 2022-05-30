@@ -1,0 +1,16 @@
+Visibility modifiers :
+
+Public > Internal > Protected > Private
+Public modifier has the maximum visibility
+Then Internal
+Then Protected
+Then Private has the minimum visibility
+
+
+Public : Generally used to declare function
+Private : Generally used to declare class variables
+         Data hiding is done in the private modifier
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security

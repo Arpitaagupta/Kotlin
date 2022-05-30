@@ -1,0 +1,11 @@
+  DATA CLASS
+-->A data class is just like a regular class that holds some data.
+
+-->When we develop android application, a lot of time we will need classes that will not perform any operation,
+    will hold lots of data.
+     for such cases, we convert normal class to data class.
+
+    1. Data Classes are used to store data
+    2. they help us perform operations directly on the data stored in the objects of a class
+    3. they help us in omitting redundant code
+    4. a primary constructor of a data class must always have at least one parameter
