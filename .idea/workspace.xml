@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4af3b885-5a7b-4536-bf7d-69b687daa479" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InheritanceAndInterface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceAndInterface/Animals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceAndInterface/Cats.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceAndInterface/Dogs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceAndInterface/functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceAndInterface/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceAndInterface/visiblityModifiers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceCodingPractice/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceCodingPractice/Car1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceCodingPractice/Car2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceCodingPractice/Honda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceCodingPractice/Hyundai.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritanceCodingPractice/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interfaceCodingPractice/Games.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interfaceCodingPractice/Sports.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interfaceCodingPractice/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interfaces/CallMe.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interfaces/MyInterface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interfaces/NewInterface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interfaces/main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="4af3b885-5a7b-4536-bf7d-69b687daa479" name="Changes" comment="Inheritance and Interface" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,6 +109,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653838838145</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inheritance and Interface">
+      <created>1653934696271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653934696271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,5 +129,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inheritance and Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance and Interface" />
   </component>
 </project>
